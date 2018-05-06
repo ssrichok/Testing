@@ -1,0 +1,43 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+td {
+    border: 1px solid silver;
+    padding: 5px;
+}
+
+.panel-right-comment{
+	background-color: #E4F3AA;
+	float: right;
+	vertical-align: top;
+	padding: 5px;
+	margin-top: -70px;
+	margin-right: 20px;
+	min-width: 220px;
+}
+
+.panel-box {
+	border: 1px solid #e2e2e2;
+	display:table;
+	padding: 5px;
+	margin: 5px;
+	background-color: #fafafa;
+}
+.panel-box-inner {
+	border: 1px solid #e2e2e2;
+	padding: 5px;
+	margin: 5px;
+	background-color: #f2f2f2;
+}
+.panel-box-description {
+	background-color: #E4F3AA;float: right;margin-right:8%;margin-top:8px; padding:8px;
+}
+.operation-buttons input[type=submit], .operation-buttons input[type=reset] {
+	width: 90px;
+	margin-right: 10px;
+}
